@@ -6,8 +6,7 @@
 
 Пример:
 Иван Иванов 1846 года рождения, проживает в городе Москва,
-email: jackie@gmail.com, телефон: 01005321456
-"""
+email: jackie@gmail.com, телефон: 01005321456"""
 
 def func(firstname, lastname, yearofbirth, city, email, telefon):
     print(f"{firstname} {lastname} {yearofbirth} года рождения, проживает в городе {city}, email: {email}, телефон: {telefon}")
